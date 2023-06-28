@@ -4,5 +4,5 @@ Repositório para auxiliar no compartilhamento de informações para o o minicur
 
 Colab: https://colab.research.google.com/drive/1dTq8EMLux3adDDffn4ELwsP4dSXuHC9w?usp=sharing
 
-Pasta de imagens para a prática: https://colab.research.google.com/drive/1dTq8EMLux3adDDffn4ELwsP4dSXuHC9w?usp=sharing
+Pasta de imagens para a prática: https://drive.google.com/drive/folders/13laXJxf1dx3npsKTBG5AuxZN-PQMWqfH?usp=drive_link
 > Deve ser armazenada no Drive

@@ -6,3 +6,5 @@ Colab: https://colab.research.google.com/drive/1dTq8EMLux3adDDffn4ELwsP4dSXuHC9w
 
 Pasta de imagens para a prática: https://drive.google.com/drive/folders/13laXJxf1dx3npsKTBG5AuxZN-PQMWqfH?usp=drive_link
 > Deve ser armazenada no Drive
+
+Link para o dataset completo utilizado no Deep Learning: https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset?resource=download
